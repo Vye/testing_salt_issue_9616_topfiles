@@ -1,4 +1,4 @@
-/goodfile_with_bug:
+/goodfile:
   file.managed:
     - source:
       - salt://content
